@@ -315,11 +315,9 @@ I plan to extend this project by implementing additional AWS services and DevOps
 - **Amazon VPC:** Explore subnets, route tables, Internet Gateways, and Network ACLs.
 - **Load Balancing:** Explore Application Load Balancers to distribute incoming HTTP traffic.
 
-## 👨‍💻 Author
+## Project Author
 
 **Vineet Vikram Rao**
-
-Aspiring Cloud Network Engineer | AWS | Linux | Networking | Terraform
 
 ---
 
